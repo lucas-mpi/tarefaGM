@@ -1,0 +1,14 @@
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\bin\Debug\net6.0\GerenciamentoLojaRoupas.exe
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\bin\Debug\net6.0\GerenciamentoLojaRoupas.deps.json
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\bin\Debug\net6.0\GerenciamentoLojaRoupas.runtimeconfig.json
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\bin\Debug\net6.0\GerenciamentoLojaRoupas.dll
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\bin\Debug\net6.0\GerenciamentoLojaRoupas.pdb
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\obj\Debug\net6.0\GerenciamentoLojaRoupas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\obj\Debug\net6.0\GerenciamentoLojaRoupas.AssemblyInfoInputs.cache
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\obj\Debug\net6.0\GerenciamentoLojaRoupas.AssemblyInfo.cs
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\obj\Debug\net6.0\GerenciamentoLojaRoupas.csproj.CoreCompileInputs.cache
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\obj\Debug\net6.0\GerenciamentoLojaRoupas.dll
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\obj\Debug\net6.0\refint\GerenciamentoLojaRoupas.dll
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\obj\Debug\net6.0\GerenciamentoLojaRoupas.pdb
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\obj\Debug\net6.0\GerenciamentoLojaRoupas.genruntimeconfig.cache
+C:\dev\loja_roupas\GerenciamentoLojaRoupas\obj\Debug\net6.0\ref\GerenciamentoLojaRoupas.dll
